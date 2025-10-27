@@ -28,6 +28,6 @@ This project is a <strong>demo project</strong> for real-time blog website devel
 
 <h1>Arsu's Blog</h1>
 
-<img src="Arsu's blog.jpeg">
+<img src="images/Arsu's blog.jpeg">
 
 <footer>Author - Arslan(arsu_coder)</footer>
