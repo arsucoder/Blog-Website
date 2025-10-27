@@ -26,4 +26,8 @@ This project is a <strong>demo project</strong> for real-time blog website devel
 
 * Include user interaction features, such as likes and comments.<br/>
 
+<h1>Arsu's Blog</h1>
+
+<img src="Arsu's blog.jpeg">
+
 <footer>Author - Arslan(arsu_coder)</footer>
